@@ -9,7 +9,7 @@ export function MyAbout(){
 export function MyImage(){
         return(
         <div style={{textAlign: 'center'}}>
-            <img src="./images/2.jpg" width="30%" higth="30%"/>
+            <img src="./images/mmm.jpg" width="30%" higth="30%"/>
         </div>
         )
 }
@@ -18,7 +18,7 @@ export function MyData (){
             
             <div style={{textAlign: 'center'}}>
                     
-                    <a>ชื่อ-นาสกุล : นางสาวจิรัชญา ผุสดี</a><br/>
+                    <a>ชื่อ-นามสกุล : นางสาวจิรัชญา ผุสดี</a><br/>
                     <a>ชื่อเล่น : มิว</a><br/>
                     <a>อายุ : 21</a><br/>
                     <a>ห้อง : DT26521N</a><br/>
